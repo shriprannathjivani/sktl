@@ -19634,6 +19634,36 @@ iframe {
 .icon-item#email:hover, .icon-item#email:focus {
   background-color: #eb3c2f;
 }
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active{
+  color: #FF5701;
+}
+.hero-cer{
+  border: 32px solid #ccf1fe;
+    margin-left: 0;
+    width: 85%;
+}
+.certificate-card{
+  border: 16px solid #f4e7d7;
+  border-radius: 0;
+}
+.certificate-card h2{
+  font-size: 2rem;
+  margin-top: 15px;
+  margin-bottom: 24px;
+}
+.certificate-card p{
+  font-size: 1rem;
+}
+.certificate-card .btn-primary{
+  margin-right: 8px;
+}
+.certificate-card .btn{
+  width: 45%;
+}
+.certificate-box{
+  padding: 8px 16px;
+  padding-bottom: 16px;
+}
 @media only screen and (max-width: 600px) {
 .hero-img{
   width: 100%;
@@ -19660,5 +19690,10 @@ iframe {
 #testimonial .position-absolute.start-0.top-0.translate-middle{
   left: 50% !important;
   top: -8% !important;
+}
+.hero-cer{
+    border: 32px solid #ccf1fe;
+    margin-left: 0;
+    width: 100%;
 }
 }
