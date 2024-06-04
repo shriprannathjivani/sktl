@@ -1,90 +1,90 @@
 var c_eman = [{
   id: '1',
   name: 'श्री दुष्यंत तोमर जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/1.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/1.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्री दुष्यंत तोमर जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्री दुष्यंत तोमर जी.pdf'
 },
 {
   id: '2',
   name: 'श्रीमती शीतल भंडेरी जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/2.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/2.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती शीतल भंडेरी जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती शीतल भंडेरी जी.pdf'
 },
 {
   id: '3',
   name: 'श्रीमती वृंदा भट्टराई जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/3.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/3.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती वृंदा भट्टराई जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती वृंदा भट्टराई जी.pdf'
 },
 {
   id: '4',
   name: 'श्रीमती रसीला कपोपरा जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/4.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/4.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती रसीला कपोपरा जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती रसीला कपोपरा जी.pdf'
 },
 {
   id: '5',
   name: 'श्रीमती अनु गुप्ता जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/5.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/5.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती अनु गुप्ता जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती अनु गुप्ता जी.pdf'
 },
 {
   id: '6',
   name: 'श्रीमती तृप्ता रानी जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/6.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/6.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती तृप्ता रानी जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती तृप्ता रानी जी.pdf'
 },
 {
   id: '7',
   name: 'श्रीमती मंजुला पटेल जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/7.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/7.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती मंजुला पटेल जी'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती मंजुला पटेल जी'
 },
 {
   id: '8',
   name: 'श्रीमती रंजना त्रिवेदी जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/8.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/8.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती रंजना त्रिवेदी जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती रंजना त्रिवेदी जी.pdf'
 },
 {
   id: '9',
   name: 'श्रीमती गायत्री पुंडीर जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/9.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/9.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती गायत्री पुंडीर जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती गायत्री पुंडीर जी.pdf'
 },
 {
   id: '10',
   name: 'श्रीमती किरण गोहिल जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/10.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/10.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती किरण गोहिल जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती किरण गोहिल जी.pdf'
 },
 {
   id: '11',
   name: 'श्रीमती सीमा गोयल जी',
-  cer1: '/assets/teams/1 .ईमान टीम आभार पत्र/11.png',
+  cer1: '/assets/teams/ईमान टीम आभार पत्र/11.png',
   cer2: '',
   cer3: '',
-  bookpdf: '/assets/bookSath/1 .ईमान टीम आभार पत्र/श्रीमती सीमा गोयल जी.pdf'
+  bookpdf: '/assets/bookSath/ईमान टीम आभार पत्र/श्रीमती सीमा गोयल जी.pdf'
 }
 ];
 
