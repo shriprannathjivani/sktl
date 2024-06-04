@@ -19858,7 +19858,7 @@ iframe {
 
 }
 .folder-navbar .nav-item:last-child .folder-img{
-
+  filter: hue-rotate(90deg);
 }
 .folder-navbar .nav-item:nth-child(2) .folder-img{
 filter: hue-rotate(45deg);
@@ -19887,17 +19887,17 @@ filter: hue-rotate(45deg);
 }
 
 .folder-navbar .nav-item:nth-child(9) .folder-img{
-
+  filter: hue-rotate(134deg);
 }
 
 .folder-navbar .nav-item:nth-child(10) .folder-img{
-
+  filter: hue-rotate(182deg);
 }
 .folder-navbar .nav-item:nth-child(11) .folder-img{
-
+  filter: hue-rotate(270deg);
 }
 .folder-navbar .nav-item:nth-child(12) .folder-img{
-
+  filter: hue-rotate(45deg);
 }
 .icon-item#youtube:hover, .icon-item#youtube:focus {
   background-color: #eb3c2f;
