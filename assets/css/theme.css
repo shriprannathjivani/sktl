@@ -19959,6 +19959,16 @@ filter: hue-rotate(45deg);
 .btn-diff-lan:hover{
   text-decoration: none;
 }
+.btn-outline-primary {
+  color: #cb7914;
+  border-color: #fff0d1;
+  background-color: #fff0d1;
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus{
+  color: #693324;
+  border-color: #ffe3a9;
+  background-color: #ffe3a9;
+}
 @media only screen and (max-width: 600px) {
   .hero-img{
     width: 100%;
