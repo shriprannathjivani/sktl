@@ -1069,7 +1069,7 @@ function displayTeam(divid, teamName){
     studentsList.innerHTML =
       studentsList.innerHTML +
       `
-      <div class="col-lg-3 mb-4">
+      <div class="col-lg-4 mb-4">
         <div class="card certificate-card">
           <img src="${teamName[i].cer1}">
           <div class="certificate-box">
