@@ -142,7 +142,7 @@ var c_brhamgyan = [{
   cer1: 'assets/teams/bhramgyanTeam/18.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/bhramgyanTeam/श्रीमती कैलाश शिंगाला जी'
+  bookpdf: 'assets/bookSath/bhramgyanTeam/श्रीमती कैलाश शिंगाला जी.pdf'
 },
 {
   id: '8',
@@ -232,7 +232,7 @@ var c_samarpan = [{
   cer1: 'assets/teams/samarpanTeam/29.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/samarpanTeam/श्रीमती मुक्ताबेन पडलिया जी'
+  bookpdf: 'assets/bookSath/samarpanTeam/श्रीमती मुक्ताबेन पडलिया जी.pdf'
 },
 {
   id: '8',
@@ -322,7 +322,7 @@ var c_chitvan = [{
   cer1: 'assets/teams/chitvanTeam/40.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/chitvanTeam/श्रीमती माया सोलंकी जी'
+  bookpdf: 'assets/bookSath/chitvanTeam/श्रीमती माया सोलंकी जी.pdf'
 },
 {
   id: '8',
@@ -404,7 +404,7 @@ var c_sewa = [{
   cer1: 'assets/teams/sewaTeam/50.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/sewaTeam/श्रीमती मेघाबेन पांभर जी'
+  bookpdf: 'assets/bookSath/sewaTeam/श्रीमती मेघाबेन पांभर जी.pdf'
 },
 {
   id: '8',
@@ -502,7 +502,7 @@ var c_prem = [{
   cer1: 'assets/teams/premTeam/62.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/premTeam/श्रीमती वंदनाबेन वसोया जी'
+  bookpdf: 'assets/bookSath/premTeam/श्रीमती वंदनाबेन वसोया जी.pdf'
 },
 {
   id: '8',
@@ -584,7 +584,7 @@ var c_singar = [{
   cer1: 'assets/teams/singarTeam/72.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/singarTeam/श्रीमती प्रतिभा जी'
+  bookpdf: 'assets/bookSath/singarTeam/श्रीमती प्रतिभा जी.pdf'
 },
 {
   id: '8',
@@ -674,7 +674,7 @@ var c_jagruti = [{
   cer1: 'assets/teams/jaganiTeam/83.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/jaganiTeam/श्रीमती निर्मलाबेन चौधरी जी'
+  bookpdf: 'assets/bookSath/jaganiTeam/श्रीमती निर्मलाबेन चौधरी जी.pdf'
 },
 {
   id: '8',
@@ -764,7 +764,7 @@ var c_ishq = [{
   cer1: 'assets/teams/ishqTeam/94.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/ishqTeam/श्रीमती जयश्रीबेन अटारा जी'
+  bookpdf: 'assets/bookSath/ishqTeam/श्रीमती जयश्रीबेन अटारा जी.pdf'
 },
 {
   id: '8',
@@ -846,7 +846,7 @@ var c_anand = [{
   cer1: 'assets/teams/anandTeam/104.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/anandTeam/श्रीमती रीटाबेन पटेल जी'
+  bookpdf: 'assets/bookSath/anandTeam/श्रीमती रीटाबेन पटेल जी.pdf'
 },
 {
   id: '8',
@@ -936,7 +936,7 @@ var c_raheni = [{
   cer1: 'assets/teams/raheniTeam/115.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/raheniTeam/श्रीमती पन्नाबेन पटेल जी'
+  bookpdf: 'assets/bookSath/raheniTeam/श्रीमती पन्नाबेन पटेल जी.pdf'
 },
 {
   id: '8',
@@ -1026,7 +1026,7 @@ var c_maher = [{
   cer1: 'assets/teams/maherTeam/126.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/maherTeam/श्रीमती इन्द्रावती उप्रेती जी'
+  bookpdf: 'assets/bookSath/maherTeam/श्रीमती इन्द्रावती उप्रेती जी.pdf'
 },
 {
   id: '8',
