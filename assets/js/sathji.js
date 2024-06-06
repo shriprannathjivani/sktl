@@ -450,7 +450,7 @@ var c_sewa = [{
 
 var c_prem = [{
   id: '1',
-  name: 'श्री कमलेश पटेल जी ',
+  name: 'श्री कमलेश पटेल जी',
   cer1: 'assets/teams/premTeam/56.png',
   cer2: '',
   cer3: '',
