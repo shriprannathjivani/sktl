@@ -1062,52 +1062,98 @@ var c_maher = [{
 }
 ];
 
- var e_book_seva = [{
+var e_book_seva = [{
   id: '1',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/1.png',
 },{
   id: '2',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
-  cer1: 'assets/e-bookCer/1.png',
+  name: 'NA',
+  cer1: 'assets/e-bookCer/2.png',
 },{
   id: '3',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/3.png',
 },{
   id: '4',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/4.png',
 },{
   id: '5',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/5.png',
 },{
   id: '6',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/6.png',
 },{
   id: '7',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/7.png',
 },{
   id: '8',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/8.png',
 },{
   id: '9',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/9.png',
 },{
   id: '10',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/10.png',
 },{
   id: '11',
-  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  name: 'NA',
   cer1: 'assets/e-bookCer/11.png',
 }
 ];
+
+var sewaCer = [{
+  id: '1',
+  name: 'NA',
+  cer1: 'assets/sewaCer/1.png',
+},{
+  id: '2',
+  name: 'NA',
+  cer1: 'assets/sewaCer/2.png',
+},{
+  id: '3',
+  name: 'NA',
+  cer1: 'assets/sewaCer/3.png',
+},{
+  id: '4',
+  name: 'NA',
+  cer1: 'assets/sewaCer/4.png',
+},{
+  id: '5',
+  name: 'NA',
+  cer1: 'assets/sewaCer/5.png',
+},{
+  id: '6',
+  name: 'NA',
+  cer1: 'assets/sewaCer/6.png',
+},{
+  id: '7',
+  name: 'NA',
+  cer1: 'assets/sewaCer/7.png',
+},{
+  id: '8',
+  name: 'NA',
+  cer1: 'assets/sewaCer/8.png',
+},{
+  id: '9',
+  name: 'NA',
+  cer1: 'assets/sewaCer/9.png',
+},{
+  id: '10',
+  name: 'NA',
+  cer1: 'assets/sewaCer/10.png',
+},{
+  id: '11',
+  name: 'NA',
+  cer1: 'assets/sewaCer/11.png',
+}];
 
 function displayTeam(divid, teamName){
   const studentsList = document.getElementById(divid);
@@ -1168,3 +1214,5 @@ displayTeam("c_anand", c_anand);
 displayTeam("c_raheni", c_raheni);
 displayTeam("c_maher", c_maher);
 displayonlyCertificate("e_book_seva", e_book_seva);
+displayonlyCertificate("sewaCer", sewaCer);
+
