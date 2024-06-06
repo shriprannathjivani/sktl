@@ -431,7 +431,7 @@ var c_sewa = [{
   bookpdf: 'assets/bookSath/sewaTeam/श्रीमती दीप्तिबेन कुंभाणी जी.pdf'
 },
 {
-  id: '10',
+  id: '11',
   name: 'श्रीमती फाल्गुनीबेन शाह जी',
   cer1: 'assets/teams/sewaTeam/54.png',
   cer2: '',
@@ -439,7 +439,7 @@ var c_sewa = [{
   bookpdf: 'assets/bookSath/sewaTeam/श्रीमती फाल्गुनीबेन शाह जी.pdf'
 },
 {
-  id: '10',
+  id: '12',
   name: 'श्रीमती सुनीता शर्मा जी',
   cer1: 'assets/teams/sewaTeam/55.png',
   cer2: '',
