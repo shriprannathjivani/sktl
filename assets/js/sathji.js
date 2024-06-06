@@ -1153,6 +1153,246 @@ var sewaCer = [{
   id: '11',
   name: 'NA',
   cer1: 'assets/sewaCer/11.png',
+},{
+  id: '12',
+  name: 'NA',
+  cer1: 'assets/sewaCer/12.png',
+},{
+  id: '13',
+  name: 'NA',
+  cer1: 'assets/sewaCer/13.png',
+},{
+  id: '14',
+  name: 'NA',
+  cer1: 'assets/sewaCer/14.png',
+},{
+  id: '15',
+  name: 'NA',
+  cer1: 'assets/sewaCer/15.png',
+},{
+  id: '16',
+  name: 'NA',
+  cer1: 'assets/sewaCer/16.png',
+},{
+  id: '17',
+  name: 'NA',
+  cer1: 'assets/sewaCer/17.png',
+},{
+  id: '18',
+  name: 'NA',
+  cer1: 'assets/sewaCer/18.png',
+},{
+  id: '19',
+  name: 'NA',
+  cer1: 'assets/sewaCer/19.png',
+},{
+  id: '20',
+  name: 'NA',
+  cer1: 'assets/sewaCer/20.png',
+},{
+  id: '21',
+  name: 'NA',
+  cer1: 'assets/sewaCer/21.png',
+},{
+  id: '22',
+  name: 'NA',
+  cer1: 'assets/sewaCer/22.png',
+},{
+  id: '23',
+  name: 'NA',
+  cer1: 'assets/sewaCer/23.png',
+},{
+  id: '24',
+  name: 'NA',
+  cer1: 'assets/sewaCer/24.png',
+},{
+  id: '25',
+  name: 'NA',
+  cer1: 'assets/sewaCer/25.png',
+},{
+  id: '26',
+  name: 'NA',
+  cer1: 'assets/sewaCer/26.png',
+},{
+  id: '27',
+  name: 'NA',
+  cer1: 'assets/sewaCer/27.png',
+},{
+  id: '28',
+  name: 'NA',
+  cer1: 'assets/sewaCer/28.png',
+},{
+  id: '29',
+  name: 'NA',
+  cer1: 'assets/sewaCer/29.png',
+},{
+  id: '30',
+  name: 'NA',
+  cer1: 'assets/sewaCer/30.png',
+},{
+  id: '31',
+  name: 'NA',
+  cer1: 'assets/sewaCer/31.png',
+},{
+  id: '32',
+  name: 'NA',
+  cer1: 'assets/sewaCer/32.png',
+},{
+  id: '33',
+  name: 'NA',
+  cer1: 'assets/sewaCer/33.png',
+},{
+  id: '34',
+  name: 'NA',
+  cer1: 'assets/sewaCer/34.png',
+},{
+  id: '35',
+  name: 'NA',
+  cer1: 'assets/sewaCer/35.png',
+},{
+  id: '36',
+  name: 'NA',
+  cer1: 'assets/sewaCer/36.png',
+},{
+  id: '37',
+  name: 'NA',
+  cer1: 'assets/sewaCer/37.png',
+},{
+  id: '38',
+  name: 'NA',
+  cer1: 'assets/sewaCer/38.png',
+},{
+  id: '39',
+  name: 'NA',
+  cer1: 'assets/sewaCer/39.png',
+},{
+  id: '40',
+  name: 'NA',
+  cer1: 'assets/sewaCer/40.png',
+},{
+  id: '41',
+  name: 'NA',
+  cer1: 'assets/sewaCer/41.png',
+},{
+  id: '42',
+  name: 'NA',
+  cer1: 'assets/sewaCer/42.png',
+},{
+  id: '43',
+  name: 'NA',
+  cer1: 'assets/sewaCer/43.png',
+},{
+  id: '44',
+  name: 'NA',
+  cer1: 'assets/sewaCer/44.png',
+},{
+  id: '45',
+  name: 'NA',
+  cer1: 'assets/sewaCer/45.png',
+},{
+  id: '46',
+  name: 'NA',
+  cer1: 'assets/sewaCer/46.png',
+},{
+  id: '47',
+  name: 'NA',
+  cer1: 'assets/sewaCer/47.png',
+},{
+  id: '48',
+  name: 'NA',
+  cer1: 'assets/sewaCer/48.png',
+},{
+  id: '49',
+  name: 'NA',
+  cer1: 'assets/sewaCer/49.png',
+},{
+  id: '50',
+  name: 'NA',
+  cer1: 'assets/sewaCer/50.png',
+},{
+  id: '51',
+  name: 'NA',
+  cer1: 'assets/sewaCer/51.png',
+},{
+  id: '52',
+  name: 'NA',
+  cer1: 'assets/sewaCer/52.png',
+},{
+  id: '53',
+  name: 'NA',
+  cer1: 'assets/sewaCer/53.png',
+},{
+  id: '54',
+  name: 'NA',
+  cer1: 'assets/sewaCer/54.png',
+},{
+  id: '55',
+  name: 'NA',
+  cer1: 'assets/sewaCer/55.png',
+},{
+  id: '56',
+  name: 'NA',
+  cer1: 'assets/sewaCer/56.png',
+},{
+  id: '57',
+  name: 'NA',
+  cer1: 'assets/sewaCer/57.png',
+},{
+  id: '58',
+  name: 'NA',
+  cer1: 'assets/sewaCer/58.png',
+},{
+  id: '59',
+  name: 'NA',
+  cer1: 'assets/sewaCer/59.png',
+},{
+  id: '60',
+  name: 'NA',
+  cer1: 'assets/sewaCer/60.png',
+},{
+  id: '61',
+  name: 'NA',
+  cer1: 'assets/sewaCer/61.png',
+},{
+  id: '62',
+  name: 'NA',
+  cer1: 'assets/sewaCer/62.png',
+},{
+  id: '63',
+  name: 'NA',
+  cer1: 'assets/sewaCer/63.png',
+},{
+  id: '64',
+  name: 'NA',
+  cer1: 'assets/sewaCer/64.png',
+},{
+  id: '65',
+  name: 'NA',
+  cer1: 'assets/sewaCer/65.png',
+},{
+  id: '66',
+  name: 'NA',
+  cer1: 'assets/sewaCer/66.png',
+},{
+  id: '67',
+  name: 'NA',
+  cer1: 'assets/sewaCer/67.png',
+},{
+  id: '68',
+  name: 'NA',
+  cer1: 'assets/sewaCer/68.png',
+},{
+  id: '69',
+  name: 'NA',
+  cer1: 'assets/sewaCer/69.png',
+},{
+  id: '70',
+  name: 'NA',
+  cer1: 'assets/sewaCer/70.png',
+},{
+  id: '71',
+  name: 'NA',
+  cer1: 'assets/sewaCer/71.png',
 }];
 
 function displayTeam(divid, teamName){
