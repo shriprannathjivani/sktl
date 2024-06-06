@@ -20183,4 +20183,10 @@ filter: hue-rotate(45deg);
   .navbar-brand img {
     height: 50px;
   }
+  .btn-diff-lan{
+    width: 80%;
+  }
+  .footer .footer_logo{
+    width: 120px;
+  }
 }
