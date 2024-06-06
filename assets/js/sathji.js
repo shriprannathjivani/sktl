@@ -956,7 +956,7 @@ var c_raheni = [{
 },
 {
   id: '10',
-  name: 'श्रीमती ज्योतिबेन शाह जी  ',
+  name: 'श्रीमती ज्योतिबेन शाह जी',
   cer1: 'assets/teams/raheniTeam/118.png',
   cer2: '',
   cer3: '',
