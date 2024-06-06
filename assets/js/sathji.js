@@ -1409,7 +1409,7 @@ function displayTeam(divid, teamName){
             <h2>${teamName[i].name}</h2>
             <p class="mb-2">डाउनलोड करने के लिए नीचे क्लिक करें</p>
             <a class="btn btn-md btn-primary" download="${teamName[i].name}" target="_blank"
-              href="${teamName[i].cer1}">आभार पत्र</a>
+              href="${teamName[i].cer1}">टीम आभार पत्र</a>
             <a class="btn btn-md btn-success" download="${teamName[i].name}"
               target="_blank" href="${teamName[i].bookpdf}">ई-पुस्तक</a>
           </div>
@@ -1441,6 +1441,27 @@ function displayonlyCertificate(cerid, teamcerList){
 }
 }
 
+function displaysewaOnly(sewacerid, sewacerList){
+  const studentsList = document.getElementById(sewacerid);
+
+  for (let i = 0; i < sewacerList.length; i++) {
+    studentsList.innerHTML =
+      studentsList.innerHTML +
+      `
+      <div class="col-lg-4 mb-4">
+        <div class="card certificate-card">
+          <img src="${sewacerList[i].cer1}">
+          <div class="certificate-box">
+            <p class="mb-2">डाउनलोड करने के लिए नीचे क्लिक करें</p>
+            <a class="btn btn-md btn-primary" download="सेवा${sewacerList[i].cer1}" target="_blank"
+              href="${sewacerList[i].cer1}">सेवा आभार पत्र</a>
+          </div>
+        </div>
+      </div>
+      `;
+}
+}
+
 displayTeam("c_eman", c_eman);
 displayTeam("c_brhamgyan", c_brhamgyan);
 displayTeam("c_samarpan", c_samarpan);
@@ -1454,5 +1475,5 @@ displayTeam("c_anand", c_anand);
 displayTeam("c_raheni", c_raheni);
 displayTeam("c_maher", c_maher);
 displayonlyCertificate("e_book_seva", e_book_seva);
-displayonlyCertificate("sewaCer", sewaCer);
+displaysewaOnly("sewaCer", sewaCer);
 
