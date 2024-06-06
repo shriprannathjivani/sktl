@@ -1062,6 +1062,53 @@ var c_maher = [{
 }
 ];
 
+ var e_book_seva = [{
+  id: '1',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/1.png',
+},{
+  id: '2',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/1.png',
+},{
+  id: '3',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/3.png',
+},{
+  id: '4',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/4.png',
+},{
+  id: '5',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/5.png',
+},{
+  id: '6',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/6.png',
+},{
+  id: '7',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/7.png',
+},{
+  id: '8',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/8.png',
+},{
+  id: '9',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/9.png',
+},{
+  id: '10',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/10.png',
+},{
+  id: '11',
+  name: 'श्रीमती स्नेहा न्यौपाने जी',
+  cer1: 'assets/e-bookCer/11.png',
+}
+];
+
 function displayTeam(divid, teamName){
   const studentsList = document.getElementById(divid);
 
@@ -1087,6 +1134,27 @@ function displayTeam(divid, teamName){
 }
 
 
+function displayonlyCertificate(cerid, teamcerList){
+  const studentsList = document.getElementById(cerid);
+
+  for (let i = 0; i < teamcerList.length; i++) {
+    studentsList.innerHTML =
+      studentsList.innerHTML +
+      `
+      <div class="col-lg-4 mb-4">
+        <div class="card certificate-card">
+          <img src="${teamcerList[i].cer1}">
+          <div class="certificate-box">
+            <p class="mb-2">डाउनलोड करने के लिए नीचे क्लिक करें</p>
+            <a class="btn btn-md btn-primary" download="ई-बुक सेवा${teamcerList[i].cer1}" target="_blank"
+              href="${teamcerList[i].cer1}">ई-बुक सेवा पत्र</a>
+          </div>
+        </div>
+      </div>
+      `;
+}
+}
+
 displayTeam("c_eman", c_eman);
 displayTeam("c_brhamgyan", c_brhamgyan);
 displayTeam("c_samarpan", c_samarpan);
@@ -1099,3 +1167,4 @@ displayTeam("c_ishq", c_ishq);
 displayTeam("c_anand", c_anand);
 displayTeam("c_raheni", c_raheni);
 displayTeam("c_maher", c_maher);
+displayonlyCertificate("e_book_seva", e_book_seva);

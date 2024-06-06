@@ -19971,11 +19971,7 @@ filter: hue-rotate(45deg);
 }
 
 /* for suprise vimochan */
-.vimochanBody{
-  height: 100%;
-  background: hsl(44, 49%, 79%);
-  z-index: 23;
-}
+
 .centered {
   position: absolute;
   top: 50%;
@@ -20025,8 +20021,22 @@ filter: hue-rotate(45deg);
   overflow: hidden;
   background-color: #ffffff;
 }
+.deck + .main {
+  opacity: 0;
+  transition: 1s ease-in-out;
+}
+.deck.is-over + .main {
+  opacity: 1;
+  transition: 1s ease-in-out;
+}
 .deck.is-over{
   width: 0;
+}
+.vimochanBody{
+  background: linear-gradient(270deg, #0fffc1, #7e0fff);
+  background-size: 200% 200%;
+  animation: animateGlow 10s ease infinite;
+  z-index: 23;
 }
 .deck:before, .deck:after {
   content: "";
@@ -20034,7 +20044,6 @@ filter: hue-rotate(45deg);
   height: 50%;
   position: absolute;
   left: 0;
-  background-image: linear-gradient(269deg, #F7941D 0%, #f46359 100%);
   transition: transform 1s ease;
   transform: scale(0.75);
   -webkit-filter: blur(14vw);

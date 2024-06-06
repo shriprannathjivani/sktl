@@ -17,13 +17,13 @@
 
 
 <body>
-  <!-- <div class="deck js-scene">
+  <div class="deck js-scene">
     <div class="text centered">
       <img src="assets/img/logo_footer.svg" width="250" class="mb-2 deck-img">
       <h2 class="mt-4 title">श्री प्राणनाथ जी वाणी 2024 <br> एक्शन इवेंट में आपका स्वागत है।</h2>
       <button class="toggle mt-6" id="toggle_btn">+</button>
     </div>
-  </div> -->
+  </div>
   <main class="main" id="top">
     <nav class="navbar navbar-expand-lg navbar-light fixed-top py-5 d-block"
       data-navbar-on-scroll="data-navbar-on-scroll">
@@ -584,15 +584,12 @@
     var btn = document.getElementById('toggle_btn');
     var textContainer = document.getElementsByClassName('js-scene');
     var deckImg = document.getElementById('deck-img');
-    //document.body.className += 'vimochanBody';
+    document.body.className += 'vimochanBody';
 
     function split() {
-      console.log('im clicked')
+      document.querySelector('body').classList.remove('vimochanBody');
       textContainer[0].classList.add('is-over');
       btn.classList.add('d-none');
-      deckImg.classList.add('d-none');
-      homeBody.classList.remove('');
-      document.body.className += '';
     }
 
     btn.addEventListener('click', split, false);
