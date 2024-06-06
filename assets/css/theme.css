@@ -20174,4 +20174,13 @@ filter: hue-rotate(45deg);
       margin: 30px 0px !important;
       padding: 0 !important;
   }
+  .deck-img{
+    width: 169px;
+  }
+  .title {
+    font-size: 1.2rem;
+  }
+  .navbar-brand img {
+    height: 50px;
+  }
 }
