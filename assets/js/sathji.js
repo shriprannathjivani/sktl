@@ -52,7 +52,7 @@ var c_eman = [{
   cer1: 'assets/teams/emanTeam/7.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/emanTeam/श्रीमती मंजुला पटेल जी'
+  bookpdf: 'assets/bookSath/emanTeam/श्रीमती मंजुला पटेल जी.pdf'
 },
 {
   id: '8',
@@ -454,7 +454,7 @@ var c_prem = [{
   cer1: 'assets/teams/premTeam/56.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/premTeam/श्री कमलेश पटेल जी .pdf'
+  bookpdf: 'assets/bookSath/premTeam/श्री कमलेश पटेल जी.pdf'
 },
 {
   id: '2',
@@ -900,11 +900,11 @@ var c_raheni = [{
 },
 {
   id: '3',
-  name: 'श्री वसंतभाई वाक जी',
+  name: 'श्री वसंत भाई परनामी जी',
   cer1: 'assets/teams/raheniTeam/111.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/raheniTeam/श्री वसंतभाई वाक जी.pdf'
+  bookpdf: 'assets/bookSath/raheniTeam/श्री वसंत भाई परनामी जी.pdf'
 },
 {
   id: '4',
@@ -948,11 +948,11 @@ var c_raheni = [{
 },
 {
   id: '9',
-  name: 'श्रीमती दीपिका चौरसिया जी',
+  name: 'सुश्री दीपिका चौरसिया जी',
   cer1: 'assets/teams/raheniTeam/117.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/raheniTeam/श्रीमती दीपिका चौरसिया जी.pdf'
+  bookpdf: 'assets/bookSath/raheniTeam/सुश्री दीपिका चौरसिया जी.pdf'
 },
 {
   id: '10',
@@ -960,7 +960,7 @@ var c_raheni = [{
   cer1: 'assets/teams/raheniTeam/118.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/raheniTeam/श्रीमती ज्योतिबेन शाह जी  .pdf'
+  bookpdf: 'assets/bookSath/raheniTeam/श्रीमती ज्योतिबेन शाह जी.pdf'
 },
 {
   id: '11',
@@ -1030,11 +1030,11 @@ var c_maher = [{
 },
 {
   id: '8',
-  name: 'श्रीमती शालिनी चौरसिया जी',
+  name: 'सुश्री शालिनी चौरसिया जी',
   cer1: 'assets/teams/maherTeam/127.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/maherTeam/श्रीमती शालिनी चौरसिया जी.pdf'
+  bookpdf: 'assets/bookSath/maherTeam/सुश्री शालिनी चौरसिया जी.pdf'
 },
 {
   id: '9',

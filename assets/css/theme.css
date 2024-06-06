@@ -5160,7 +5160,7 @@ fieldset:disabled .btn {
 
 .navbar-light .navbar-nav .nav-link {
   color: #212832;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 p{
   font-size: 1.2rem;
@@ -19969,6 +19969,168 @@ filter: hue-rotate(45deg);
   border-color: #ffe3a9;
   background-color: #ffe3a9;
 }
+
+/* for suprise vimochan */
+.vimochanBody{
+  height: 100%;
+  background: hsl(44, 49%, 79%);
+  z-index: 23;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.toggle {
+  position: relative;
+  z-index: 90;
+  height: 3rem;
+  width: 3rem;
+  background: transparent;
+  border: 4px solid;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1.75rem;
+  border-radius: 50%;
+  outline: 0;
+  padding: 0;
+  transition: all 0.3s ease-in-out;
+}
+
+.toggle:focus,
+.toggle:hover {
+  background: #FF9800;
+  color: white;
+  cursor: pointer;
+}
+
+.plug {
+  padding: 2px 5px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: 90;
+  color: white;
+}
+
+.deck {
+  width: 100%;
+  min-height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1040;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.deck.is-over{
+  width: 0;
+}
+.deck:before, .deck:after {
+  content: "";
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  left: 0;
+  background-image: linear-gradient(269deg, #F7941D 0%, #f46359 100%);
+  transition: transform 1s ease;
+  transform: scale(0.75);
+  -webkit-filter: blur(14vw);
+  -moz-filter: blur(14vw);
+  -ms-filter: blur(14vw);
+  filter: blur(14vw);
+  background: linear-gradient(270deg, #0fffc1, #7e0fff);
+  background-size: 200% 200%;
+  animation: animateGlow 10s ease infinite;
+}
+@keyframes animateGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes textColor {
+  0% {
+    color: #7e0fff;
+  }
+  50% {
+    color: #0fffc1;
+  }
+  100% {
+    color: #7e0fff;
+  }
+}
+.deck:before {
+  top: 0;
+}
+.deck:after {
+  bottom: 0;
+}
+.deck.is-over:before {
+  transform: translate3d(-100vw, 0, 0);
+}
+.deck.is-over:after {
+  transform: translate3d(100vw, 0, 0);
+}
+.title{
+  font-size: 4rem;
+  line-height: normal;
+  font-weight: 700;
+  color: #0e1f7d;
+}
+.text {
+  width: 60%;
+  z-index: 20;
+  font-size: 3rem;
+  line-height: normal;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.text:before, .text:after {
+  content: attr(title);
+  display: block;
+  overflow: hidden;
+  transition: transform 1s ease;
+}
+.text:before {
+  height: 1.5em;
+  position: relative;
+  z-index: 20;
+}
+.is-over .text:before {
+  transform: translate3d(-100vw, 0, 0);
+}
+.text:after {
+  width: inherit;
+  padding-bottom: 0.09em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  vertical-align: bottom;
+  clip: rect(1.5em auto auto auto);
+}
+.is-over{
+  opacity: 0;
+  transition: 1s ease-in-out;
+}
+.is-over .text:after {
+  transform: translate3d(100vw, 0, 0);
+}
+/* end of suprise vimochan */
+
 @media only screen and (max-width: 600px) {
   .hero-img{
     width: 100%;
