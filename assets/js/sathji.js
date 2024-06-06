@@ -1046,11 +1046,11 @@ var c_maher = [{
 },
 {
   id: '10',
-  name: 'श्रीमती अनु शर्मा  जी',
+  name: 'श्रीमती अनु शर्मा जी',
   cer1: 'assets/teams/maherTeam/129.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/maherTeam/श्रीमती अनु शर्मा  जी.pdf'
+  bookpdf: 'assets/bookSath/maherTeam/श्रीमती अनु शर्मा जी.pdf'
 },
 {
   id: '11',
