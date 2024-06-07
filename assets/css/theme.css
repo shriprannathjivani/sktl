@@ -20221,3 +20221,37 @@ filter: hue-rotate(45deg);
     width: 80%;
   }
 }
+
+
+@media screen and (min-width: 1600px) and (max-device-width: 2500px) {
+  .deck-img{
+    width: 150px;
+  }
+  .deck-img-2{
+    height: auto;
+    width: 40vh;
+  }
+  .title {
+    font-size: 2.2rem;
+      padding: 21px;
+      width: auto;
+  }
+}
+@media screen 
+  and (min-device-width: 2800px) 
+  and (max-device-width: 4000px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+    .deck-img{
+      width: 150px;
+    }
+    .deck-img-2{
+      height: auto;
+      width: 40vh;
+    }
+    .title {
+      font-size: 2.2rem;
+        padding: 21px;
+        width: auto;
+    }
+}
