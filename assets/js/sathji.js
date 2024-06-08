@@ -1106,6 +1106,10 @@ var e_book_seva = [{
   id: '11',
   name: 'NA',
   cer1: 'assets/e-bookCer/11.png',
+},{
+  id: '12',
+  name: 'NA',
+  cer1: 'assets/e-bookCer/12.png',
 }
 ];
 
