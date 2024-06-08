@@ -458,11 +458,11 @@ var c_prem = [{
 },
 {
   id: '2',
-  name: 'श्रीमती प्रफुल्ला भंडेरी जी',
+  name: 'श्रीमती सुप्रभा अरोड़ा जी',
   cer1: 'assets/teams/premTeam/57.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/premTeam/श्रीमती प्रफुल्ला भंडेरी जी.pdf'
+  bookpdf: 'assets/bookSath/premTeam/श्रीमती सुप्रभा अरोड़ा जी.pdf'
 },
 {
   id: '3',
@@ -803,7 +803,7 @@ var c_anand = [{
 {
   id: '2',
   name: 'श्रीमती डाहिबेन पटेल जी',
-  cer1: 'assets/teams/anandTeam/98.png',
+  cer1: 'assets/teams/anandTeam/99.png',
   cer2: '',
   cer3: '',
   bookpdf: 'assets/bookSath/anandTeam/श्रीमती डाहिबेन पटेल जी.pdf'
@@ -990,11 +990,11 @@ var c_maher = [{
 },
 {
   id: '3',
-  name: 'श्रीमती प्रवीनभाई पटेल जी',
+  name: 'श्री प्रवीनभाई पटेल जी',
   cer1: 'assets/teams/maherTeam/122.png',
   cer2: '',
   cer3: '',
-  bookpdf: 'assets/bookSath/maherTeam/श्रीमती प्रवीनभाई पटेल जी.pdf'
+  bookpdf: 'assets/bookSath/maherTeam/श्री प्रवीनभाई पटेल जी.pdf'
 },
 {
   id: '4',
